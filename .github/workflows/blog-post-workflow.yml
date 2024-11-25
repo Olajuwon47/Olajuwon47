@@ -14,9 +14,7 @@ jobs:
       - uses: Olajuwon47/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://github.com/Olajuwon47/Olajuwon47.git/releases.atom
-"
+          feed_list: "https://github.com/Olajuwon47/Olajuwon47.git/releases.atom"
 
           
           
-          feed_list: "https://dev.to/feed/itszed0"
