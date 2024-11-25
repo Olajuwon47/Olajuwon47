@@ -14,7 +14,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://github.com/Olajuwon47/Olajuwon47.git/releases.atom"
+          feed_list:  "https://github.com/Olajuwon47/Olajuwon47/releases.atom"
+
 
           
           
