@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Olajuwon47/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://github.com/Olajuwon47/Olajuwon47.git/releases.atom"
