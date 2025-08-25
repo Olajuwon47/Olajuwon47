@@ -15,7 +15,7 @@
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Olajuwon47&style=flat-square&color=lime" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Olajuwon47&style=flat-square&color=green" alt=""/>
 </div>
 
 <h1 align="center">
@@ -54,15 +54,6 @@ I’m a **Frontend Developer** from Nigeria, passionate about building sleek and
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
----
-
-/*### 📌 Featured Projects
-- 🛒 [**E-Store**](https://e-store-tawny.vercel.app) – Responsive e-commerce platform built with **Next.js + Tailwind**  
-- ✍🏽 [**Jaywon Blog**](https://jaywon-blog.onrender.com) – Blogging site for sharing stories & insights  
-- ✅ **To-Do App** – Simple productivity app with React */ 
-
----
 
 ### 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olajuwon47&theme=dark&background=000000)](https://git.io/streak-stats)  
