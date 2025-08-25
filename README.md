@@ -4,18 +4,18 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/olajuwon-lawal-a35821207">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-lime?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/olajuwonwaheed">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-lime?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Olajuwon47&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Olajuwon47&style=flat-square&color=lime" alt=""/>
 </div>
 
 <h1 align="center">
@@ -46,6 +46,7 @@ I’m a **Frontend Developer** from Nigeria, passionate about building sleek and
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" title="ShadCN UI" alt="ShadCN UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -56,10 +57,10 @@ I’m a **Frontend Developer** from Nigeria, passionate about building sleek and
 
 ---
 
-### 📌 Featured Projects
+/*### 📌 Featured Projects
 - 🛒 [**E-Store**](https://e-store-tawny.vercel.app) – Responsive e-commerce platform built with **Next.js + Tailwind**  
 - ✍🏽 [**Jaywon Blog**](https://jaywon-blog.onrender.com) – Blogging site for sharing stories & insights  
-- ✅ **To-Do App** – Simple productivity app with React  
+- ✅ **To-Do App** – Simple productivity app with React */ 
 
 ---
 
